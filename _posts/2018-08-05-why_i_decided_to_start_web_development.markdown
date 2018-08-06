@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I decided to start web development"
-date:       2018-08-06 03:57:31 +0000
+date:       2018-08-05 23:57:32 -0400
 permalink:  why_i_decided_to_start_web_development
 ---
 
